@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ElliePortfolioLive/static/css/main.f855e6bc.css",
+    "main.js": "/ElliePortfolioLive/static/js/main.50d95c1a.js",
+    "static/js/453.8928178d.chunk.js": "/ElliePortfolioLive/static/js/453.8928178d.chunk.js",
+    "index.html": "/ElliePortfolioLive/index.html",
+    "main.f855e6bc.css.map": "/ElliePortfolioLive/static/css/main.f855e6bc.css.map",
+    "main.50d95c1a.js.map": "/ElliePortfolioLive/static/js/main.50d95c1a.js.map",
+    "453.8928178d.chunk.js.map": "/ElliePortfolioLive/static/js/453.8928178d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.50d95c1a.js"
+  ]
+}
